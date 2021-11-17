@@ -1,0 +1,5 @@
+.container{
+    display:flex; /*display flex dene se sav block type me change ho gya row ke form me */
+    flex-direction:column; /* column krne se sav cloumn wise ho gya */
+    width: 50vw;
+}
